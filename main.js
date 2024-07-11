@@ -72,3 +72,6 @@ priceRange.addEventListener("change", function () {
     let value = priceRange.value;
     helper(value);
 })
+
+
+// Lot of Interesting things yet to be done
